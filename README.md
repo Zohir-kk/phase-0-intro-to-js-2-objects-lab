@@ -27,7 +27,7 @@ address.
 To start, assign an `employee` variable to an `Object` containing
 `name` and `streetAddress` keys; you can use whatever values you like. Use
 literal syntax to create your `Object`. Various updates will be applied to this
-variable (destructively and non-destructively) in this lab.
+variable (destructively and non-destructively)   in this lab.
 
 Once you've initialized the `employee` Object, you'll need to create the
 following four functions:
